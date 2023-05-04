@@ -62,6 +62,8 @@ header {
 
 .sign {
   margin-left: 20px;
+  display: flex;
+  margin-top: 25px;
 }
 
 .sign__li {
@@ -77,7 +79,7 @@ header {
 }
 
 .sign__btn {
-  margin-left: 120px;
+  margin-left: 160px;
   width: 130px;
   height: 52px;
   background: #3671E9;
@@ -90,7 +92,6 @@ header {
   text-align: center;
   color: white;
   position: absolute;
-  margin-top: -40px;
 }
 
 .sitelogo__img {
