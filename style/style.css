@@ -150,8 +150,8 @@ span {
 }
 
 .header__img2 {
-  margin-top: -700px;
-  margin-left: 500px;
+  margin-top: -450px;
+  margin-left: 700px;
 }
 
 .btn {
@@ -815,4 +815,32 @@ footer {
   position: absolute;
   margin-left: -30px;
   margin-top: -40px;
+}
+
+.dd {
+  position: absolute;
+  margin-left: 1100px;
+  margin-top: 50px;
+}
+
+.uu {
+  position: absolute;
+  margin-left: 1100px;
+  margin-top: 380px;
+}
+
+.oo {
+  margin-top: 2px;
+}
+
+.ss {
+  position: absolute;
+  margin-left: -500px;
+  margin-top: -50px;
+}
+
+.cc {
+  position: absolute;
+  margin-left: 150px;
+  margin-top: -50px;
 }/*# sourceMappingURL=style.css.map */
